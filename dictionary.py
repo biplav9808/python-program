@@ -1,4 +1,5 @@
-a={'name':['ram','shyam'],'no':[1,2] }
+
+a={'name':['raaaam','shyam'],'no':[1,2] }
 b={'caste':34}
 a.update(b)
 print(a)
